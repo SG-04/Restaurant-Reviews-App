@@ -28,3 +28,5 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 
 
+### Note
+* The website is available for viewing [here]( https://sg-04.github.io/Restaurant-Reviews-App/)
